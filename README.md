@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 
-- 🌱 I’m currently learning **Django,python**
+- 🌱 I’m currently learning **Angular,Springboot**
   🤝 I'm open to collaborating on full-stack projects.
 
 - 👨‍💻 All of my projects are available at [https://utkarshdwivedi-portfolio.netlify.app/](https://utkarshdwivedi-portfolio.netlify.app/)
